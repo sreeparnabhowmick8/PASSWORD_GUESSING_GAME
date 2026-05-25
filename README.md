@@ -32,7 +32,7 @@ This project allows users to guess secret numeric passwords with different diffi
 
 ## 📸 Project Preview
 
-<img width="800" alt="Game Preview" src="YOUR_SCREENSHOT_LINK_HERE">
+<img width="800" alt="Game Preview" src="images">
 
 ---
 
